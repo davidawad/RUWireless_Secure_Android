@@ -19,3 +19,6 @@ Then in the identity field, simply type in your netID, and then your password in
 
 
 That works for most android phones, and you don't even need the CA certificate, or the Secure W2 Join Now. 
+
+
+## Thanks to Adam Nuzzi for bugging me to write this up. 
