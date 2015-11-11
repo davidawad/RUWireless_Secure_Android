@@ -10,6 +10,8 @@ You're going to want to set your Extensible Authentication Protocol (EAP) method
 
 Then set your phase 2 authentication to PAP. 
 
+![](https://raw.githubusercontent.com/DavidAwad/RUWireless_Secure_Android/master/screenshot.jpg)
+
 
 Then in the identity field, simply type in your netID, and then your password in the password field, type in your Rutgers password. 
 
